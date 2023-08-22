@@ -1,6 +1,5 @@
 # FedLQR
 Code for the examples in the paper: 
 
-Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach
-
-Wang, Toso, Mitra, Anderson
+_**Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach**_
+, Wang, Toso, Mitra, Anderson, 2023

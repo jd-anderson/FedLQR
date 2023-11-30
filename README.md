@@ -10,4 +10,4 @@ To run the codes in this repository, you only need a working MATLAB installation
 
 ## Troubleshooting
 
-If you have any trouble running those codes or have any question about the paper, please email [Leonardo F. Toso](mailto:lt2879@columbia.edu).
+If you have any trouble running those codes or have any questions about the paper, please email [Leonardo F. Toso](mailto:lt2879@columbia.edu).
